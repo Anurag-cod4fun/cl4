@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "phoneNumber": "123-456-7890",
+    "color": "Red"
+  },
+  {
+    "id": 2,
+    "phoneNumber": "234-567-8901",
+    "color": "Blue"
+  },
+  {
+    "id": 3,
+    "phoneNumber": "345-678-9012",
+    "color": "Green"
+  },
+  {
+    "id": 4,
+    "phoneNumber": "456-789-0123",
+    "color": "Yellow"
+  },
+  {
+    "id": 5,
+    "phoneNumber": "567-890-1234",
+    "color": "Orange"
+  },
+  {
+    "id": 6,
+    "phoneNumber": "678-901-2345",
+    "color": "Purple"
+  },
+  {
+    "id": 7,
+    "phoneNumber": "789-012-3456",
+    "color": "Pink"
+  },
+  {
+    "id": 8,
+    "phoneNumber": "890-123-4567",
+    "color": "Brown"
+  },
+  {
+    "id": 9,
+    "phoneNumber": "901-234-5678",
+    "color": "Black"
+  },
+  {
+    "id": 10,
+    "phoneNumber": "012-345-6789",
+    "color": "White"
+  }
+]
